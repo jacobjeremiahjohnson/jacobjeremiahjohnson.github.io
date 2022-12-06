@@ -9,4 +9,3 @@
 
 ## Future Projects
 * Spotify stats page
-
