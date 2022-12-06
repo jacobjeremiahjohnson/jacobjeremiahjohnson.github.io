@@ -43,10 +43,6 @@ url = "mailto:jacobjeremiah42@gmail.com"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/jacob-johnson-637155181/"
 
-[[params.socialLinks]]
-title = "Resume"
-url = "/resume.pdf"
-
 [menu]
 
   [[menu.main]]
