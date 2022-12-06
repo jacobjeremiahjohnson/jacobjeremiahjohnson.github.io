@@ -32,19 +32,20 @@ logo = "images/rice.svg"
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
-icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/jacobjeremiahjohnson"
 
 [[params.socialLinks]]
-icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:jacobjeremiah42@gmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/jacob-johnson-637155181/"
+
+[[params.socialLinks]]
+title = "Resume"
+url = "/resume.pdf"
 
 [menu]
 
