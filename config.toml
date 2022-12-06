@@ -2,7 +2,7 @@ baseURL = "https://jacobjeremiahjohnson.github.io/"
 theme = "risotto"
 title = "Jacob Johnson"
 author = "Jacob Johnson"
-copyright = "© 2021–2022 [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+copyright = "2022 Jacob Johnson. MIT"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -42,6 +42,10 @@ url = "mailto:jacobjeremiah42@gmail.com"
 [[params.socialLinks]]
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/jacob-johnson-637155181/"
+
+[[params.socialLinks]]
+title = "Resume"
+url = "resume.pdf"
 
 [menu]
 
