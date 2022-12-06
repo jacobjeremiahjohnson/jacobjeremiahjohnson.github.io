@@ -9,3 +9,4 @@
 
 ## Future Projects
 * Spotify stats page
+* Platinum in League of Legends

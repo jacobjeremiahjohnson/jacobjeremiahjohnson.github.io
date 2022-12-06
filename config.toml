@@ -24,7 +24,6 @@ palette = "base16-dark"
 [params.about]
 title = "Jacob Johnson"
 description = "My personal website for displaying projects and experience."
-logo = "images/rice.svg"
 
 # Sidebar: social links
 # Available icon sets:
@@ -50,9 +49,9 @@ url = "resume.pdf"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
     weight = 10
 
 [taxonomies]
